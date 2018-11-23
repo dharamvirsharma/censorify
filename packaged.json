@@ -1,0 +1,19 @@
+{
+  "author": "Dharamvir Sharma",
+  "name": "dharamvirsharma",
+  "version": "0.1.1",
+  "description": "Censors words out of text",
+  "main": "censortext",
+  "repostory": {
+    "type": "git",
+	"url":"https://github.com/dharamvirsharma"
+  },
+  "keywords": [
+    "censor",
+    "words"
+  ],
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
